@@ -12,10 +12,19 @@ E clique neste  botão:
 Após ter baixado o zip você irá extraí-lo para dentro da pasta build
 <br>
 #
-Após ter feito isso você irá colocar o banco de dados!
+Agora você irá colocar o banco de dados!
 <br>
 Antes de tudo baixe o HeidiSQL e o XAMPP
+<br>
+download HeidiSQL: https://www.heidisql.com
+<br>
+download XAMPP: https://www.apachefriends.org/pt_br/index.html
 <br>
 Após ter baixado o XAMPP você irá startar o Appache e o MySQL e ficará assim:
 <br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836575300975853648/unknown.png">
+<br>
+Pronto, agora você irá abrir o seu HeidiSQL e irá criar uma nova sessão e colocar um nome que você quiser á ela deste jeito:
+<br>
+<img src="https://cdn.discordapp.com/attachments/836573854625169468/836576362113531964/unknown.png">
+<br>
