@@ -1,9 +1,9 @@
 # Base-Clear-VitorNasBr
-💻 ∣ Base Clear Para quem está querendo aprender!
+🌠 ∣ Base Clear Para quem está querendo aprender!
 <br>
-🧾 ∣ Discord: VitorNasBr#5742
+🌠 ∣ Discord: VitorNasBr#5742
 <br>
-💻 ∣ Core utilizado da Zirix V2 um pouco modificado
+🌠 ∣ Core utilizado da Zirix V2 um pouco modificado
 #
 Tutorial: Baixem os artefatos do FiveM e coloquem dentro da pasta build!
 Mas como baixar os artefatos?
