@@ -7,6 +7,7 @@ Mas como baixar os artefatos?
 Entre neste site https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/ (Site do Fivem)
 <br>
 E clique neste  botão: 
+<br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836573966315421716/unknown.png">
 <br>
 Após ter baixado o zip você irá extraí-lo para dentro da pasta build
@@ -37,4 +38,11 @@ Pronto agora você irá executar o arquivo SQL dentro da pasta Banco_De_Dados
 Mas como?
 <br>
 Clique em arquivo e em Carregar Arquivo SQL, desse modo:
+<br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836577635391242290/unknown.png">
+<br>
+Após você carregar o arquivo SQL ira aparecer uma aba desse modo:
+<br>
+<img src="https://cdn.discordapp.com/attachments/836573854625169468/836578031870541844/unknown.png">
+<br>
+Então você clicará na seta em azul(Run) que está ao lado do X e dará F5
