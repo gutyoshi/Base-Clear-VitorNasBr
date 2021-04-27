@@ -59,7 +59,7 @@ Agora é so você executar o start.bat (Abrir seu servidor local) desse modo:
 <br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836579784384446474/unknown.png">
 <br>
-Após abrir você clicará qualquer tecla como ele pede e ser servidor será startado quando seu cmd estiver assim:
+Após abrir você clicará qualquer tecla como ele pede e seu servidor será startado quando seu cmd estiver assim:
 <br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836580096717750312/unknown.png">
 <br>
