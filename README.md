@@ -28,3 +28,13 @@ Pronto, agora você irá abrir o seu HeidiSQL e irá criar uma nova sessão e co
 <br>
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836576362113531964/unknown.png">
 <br>
+Agora você abrirá esta sessão clicando em abrir:
+<br>
+<img src="https://cdn.discordapp.com/attachments/836573854625169468/836577041801281626/unknown.png">
+<br>
+Pronto agora você irá executar o arquivo SQL dentro da pasta Banco_De_Dados
+<br>
+Mas como?
+<br>
+Clique em arquivo e em Carregar Arquivo SQL, desse modo:
+<img src="https://cdn.discordapp.com/attachments/836573854625169468/836577635391242290/unknown.png">
