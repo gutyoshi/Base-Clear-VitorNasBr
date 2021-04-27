@@ -81,3 +81,5 @@ Gere sua key em: http://keymaster.fivem.net e coloque no config.cfg
 <img src="https://cdn.discordapp.com/attachments/836573854625169468/836622263763730502/unknown.png">
 <br>
 Após tudo isso e so ser feliz😁
+<br>
+Caso você queira ver um video de como startar uma base eu recomendo esse: https://www.youtube.com/watch?v=2A6iE9k8sbw&t=506s
