@@ -1,5 +1,6 @@
 # Base-Clear-VitorNasBr
 💻 ∣ Base Clear Para quem está querendo aprender!
+<br>
 🧾 ∣ Discord: VitorNasBr#5742
 #
 Tutorial: Baixem os artefatos do FiveM e coloquem dentro da pasta build!
