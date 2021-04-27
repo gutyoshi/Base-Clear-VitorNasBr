@@ -75,4 +75,9 @@ Após isso e só você aprovar o seu id no HeidiSQL abrindo na tabela "vrp" e ab
 <br>
 Para salvar so passar o mouse em uma area branca e dar F5 para ver se salvou.
 <br>
-Após tudo isso é so você entrar no servidor e ser feliz😁
+Após tudo isso é so você colocar sua key no config.cfg
+<br>
+Gere sua key em: http://keymaster.fivem.net e coloque no config.cfg
+<img src="https://cdn.discordapp.com/attachments/836573854625169468/836622263763730502/unknown.png">
+<br>
+Após tudo isso e so ser feliz😁
